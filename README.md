@@ -1,4 +1,4 @@
-# What Is A Theme
+#  What is a Theme?
 
 ## Description
 
@@ -32,21 +32,21 @@ A theme is a collection of files that include HTML, CSS, JavaScript, and PHP cod
 
 ### How Does a Theme Interact with WordPress?
 
-Themes are one of the three components that make up a WordPress website. WordPress itself provides the engine and database behind the site. Plugins provide functionality; such as forms and e-commerce. Themes give WordPress websites their look and feel. They are like the _skin_ of your site, or the layer you see on the outside, which is often referred to as the _front end_ of a website.
+Themes are one of the three components that make up a WordPress website. WordPress itself provides the engine and database behind the site. Plugins provide functionality; such as forms and e-commerce. Themes give WordPress websites their look and feel. They are like the _skin_ of your site, or the layer you see on the outside, which is often referred to as the _front end_ of a website.
 
 ### What is a Theme Framework?
 
-The term "Theme Framework" currently has three meanings:
+The term "Theme Framework" currently has three meanings:
 
-*   A "drop-in" [code library](http://codex.wordpress.org/Theme_Frameworks#Code_Library "Codex: Code Library") that is used to facilitate development of a theme (e.g., Bootstrap or Foundation)
+*   A "drop-in" [code library](http://codex.wordpress.org/Theme_Frameworks#Code_Library "Codex: Code Library") that is used to facilitate development of a theme (e.g., Bootstrap or Foundation)
 *   A stand-alone [base/starter Theme](http://codex.wordpress.org/Theme_Frameworks#Base.2FStarter_Theme "Codex: Base/Starter Theme") that is intended either to be forked into another theme (e.g. _s (Underscores) )
 *   A parent theme template (e.g., Genesis, Thesis)
 
-What these definitions have in common is that they provide code that serves as a base to build upon to create the theme that will actually be used to display the site.
+What these definitions have in common is that they provide code that serves as a base to build upon to create the theme that will actually be used to display the site.
 
 ### What is a Child Theme?
 
-A child theme is a theme that builds upon another theme, called the parent theme. Child themes allow you to modify, or add to the code of a parent theme. **A child theme is the best, safest, and easiest way to modify an existing theme**, whether you want to make just one tiny change or completely overhaul it. When you use a child theme, you must also install a parent theme to make it work properly. Child themes are not meant to stand on their own. Instead of modifying the theme files directly, create a child theme and make your edits there. This will help prevent any updates to the parent theme from breaking your website.
+A child theme is a theme that builds upon another theme, called the parent theme. Child themes allow you to modify, or add to the code of a parent theme. **A child theme is the best, safest, and easiest way to modify an existing theme**, whether you want to make just one tiny change or completely overhaul it. When you use a child theme, you must also install a parent theme to make it work properly. Child themes are not meant to stand on their own. Instead of modifying the theme files directly, create a child theme and make your edits there. This will help prevent any updates to the parent theme from breaking your website.
 
 ## Exercises
 
@@ -60,7 +60,7 @@ A child theme is a theme that builds upon another theme, called the parent theme
 2.  A framework
 3.  A parent theme
 
-**Correct Answer:** 3. A parent theme
+**Correct Answer:** 3\. A parent theme
 
 * * *
 
@@ -70,7 +70,7 @@ A child theme is a theme that builds upon another theme, called the parent theme
 2.  Create a child theme
 3.  Install a new theme
 
-**Correct Answer:** 2. Create a child theme
+**Correct Answer:** 2\. Create a child theme
 
 ## Additional Resources
 
