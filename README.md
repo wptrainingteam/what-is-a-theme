@@ -6,7 +6,7 @@ In this module you'll learn how a theme interacts with WordPress and you will lo
 
 ## Prerequisite Skills
 
-*   A basic knowledge of the names of web languages (HTML, [CSS](https://make.wordpress.org/training/handbook/theme-school/intro-to-css/), PHP)
+*   A basic knowledge of the names of web languages (HTML, [CSS](https://github.com/wptrainingteam/introduction-to-css), PHP)
 *   Ability to edit files with a text editor
 *   A desire to learn
 
