@@ -56,21 +56,21 @@ A child theme is a theme that builds upon another theme, called the parent theme
 
 **What must be installed in order to use a child theme?**
 
-1.  A starter theme
-2.  A framework
-3.  A parent theme
+1. A starter theme
+2. A framework
+3. A parent theme
 
-**Correct Answer:** 3\. A parent theme
+**Answer:** 3. A parent theme
 
 * * *
 
 **What is the best way to make modifications to an existing theme?**
 
-1.  Modify or add code to the parent theme
-2.  Create a child theme
-3.  Install a new theme
+1. Modify or add code to the parent theme
+2. Create a child theme
+3. Install a new theme
 
-**Correct Answer:** 2\. Create a child theme
+**Answer:** 2. Create a child theme
 
 ## Additional Resources
 
