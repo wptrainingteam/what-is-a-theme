@@ -2,7 +2,7 @@
 
 ## Description
 
-In this module you'll learn how a theme interacts with WordPress and you will look at the role of CSS within that WordPress theme. You will also explore the definitions of both a framework and a child theme and see how they work.
+In this module, you'll learn how a theme interacts with WordPress and you will look at the role of CSS within that WordPress theme. You will also explore the definitions of both a framework and a child theme and see how they work.
 
 ## Prerequisite Skills
 
