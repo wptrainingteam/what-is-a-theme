@@ -38,7 +38,7 @@ Themes are one of the three components that make up a WordPress website. WordPre
 
 The term "Theme Framework" currently has three meanings:
 
-*   A "drop-in" [code library](http://codex.wordpress.org/Theme_Frameworks#Code_Library "Codex: Code Library") that is used to facilitate development of a theme (e.g., Bootstrap or Foundation)
+*   A "drop-in" [code library](http://codex.wordpress.org/Theme_Frameworks#Code_Library "Codex: Code Library") that is used to facilitate the development of a theme (e.g., Bootstrap or Foundation)
 *   A stand-alone [base/starter Theme](http://codex.wordpress.org/Theme_Frameworks#Base.2FStarter_Theme "Codex: Base/Starter Theme") that is intended either to be forked into another theme (e.g. _s (Underscores) )
 *   A parent theme template (e.g., Genesis, Thesis)
 
